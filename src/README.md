@@ -3,8 +3,9 @@
 <h2>a simple tic-tac-toe game</h2>
 
 #Here it shows the start of the move with current player being "X"
-<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/80134632/233228960-2c3eeb6c-2f4f-4745-bc73-45ecb6c57167.png">
-![jogodavelha01](https://user-images.githubusercontent.com/80134632/233228960-2c3eeb6c-2f4f-4745-bc73-45ecb6c57167.png)
+<div>
+<img align="center" width="300" height="300" src="https://user-images.githubusercontent.com/80134632/233228960-2c3eeb6c-2f4f-4745-bc73-45ecb6c57167.png">
+</div>
 
 #now the current player becomes "O"
 ![jogodavelha02](https://user-images.githubusercontent.com/80134632/233228968-dccfd531-6d9b-4902-9c50-3537f56e701a.png)
